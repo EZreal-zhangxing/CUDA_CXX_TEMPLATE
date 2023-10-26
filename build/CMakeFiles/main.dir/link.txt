@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/main.dir/src/main.cpp.o -o main  -Wl,-rpath,/home/zhangxing/workspace/cuda_c++_normal_project/build libgpu_kernal.so /usr/local/cuda/lib64/libcudart_static.a -ldl /usr/lib/x86_64-linux-gnu/librt.a 
