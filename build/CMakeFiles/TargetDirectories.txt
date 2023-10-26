@@ -1,0 +1,4 @@
+/home/zhangxing/workspace/cuda_c++_normal_project/build/CMakeFiles/gpu_kernal.dir
+/home/zhangxing/workspace/cuda_c++_normal_project/build/CMakeFiles/main.dir
+/home/zhangxing/workspace/cuda_c++_normal_project/build/CMakeFiles/edit_cache.dir
+/home/zhangxing/workspace/cuda_c++_normal_project/build/CMakeFiles/rebuild_cache.dir
