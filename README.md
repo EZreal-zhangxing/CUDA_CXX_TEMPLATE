@@ -1,0 +1,2 @@
+# CUDA_CXX_TEMPLATE
+关于CUDA和CXX结合在一起的项目模板
